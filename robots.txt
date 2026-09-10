@@ -1,1 +1,6 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Allow: /
 
+Sitemap: https://edwardomondi.github.io/sitemap.xml
+# END nuxt-robots
