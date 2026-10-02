@@ -2,7 +2,7 @@
 
 > Full-Stack Software Engineer and Solutions Architect based in Nairobi, Kenya, with 5+ years of experience across the Java/Spring, Vue/Nuxt, and Angular ecosystems. Co-founder and architect of two live SaaS platforms. Background in Mechatronics Engineering bridging hardware and software (IoT, Raspberry Pi, RFID).
 
-Contact: ewomondi@gmail.com · https://github.com/EdwardOmondi · https://linkedin.com/in/edwardomondi-6644b7a8/
+Contact: ewomondi@gmail.com · https://github.com/EdwardOmondi · https://linkedin.com/in/edward-omondi-otieno/
 
 ## Core Skills
 
