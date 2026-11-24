@@ -22,6 +22,27 @@ Contact: ewomondi@gmail.com · https://github.com/EdwardOmondi · https://linked
 - Managing Director & Co-Founder, Aims (May 2022 - Present) - https://aims.homes
 - Freelance Software Developer, Nairobi, Kenya (Jan 2022 - Jul 2022)
 
+## Selected Projects
+
+- Cardly: Gift card & loyalty SaaS (Nuxt, Spring Boot, Keycloak, Stripe, M-Pesa) - https://cardly.gift
+- Aims: Smart-lock property management with a Raspberry Pi IoT controller (Angular, Spring Boot) - https://aims.homes
+- Kwaru: Stock, POS and finance for hardware & timber businesses (Spring Boot, Nuxt, Keycloak) - https://kwaru.finsoma.com
+- Ahadi: Multi-tenant pledge & fundraising platform with M-Pesa and SMS (Spring Boot, Nuxt) - https://ahadi.finsoma.com
+- EBMM (the dtic, South Africa): Non-tariff barrier reporting & case management, four-portal web app plus Android (Nuxt, Jakarta EE, Kotlin) - via Technovation
+- Sarit Belong (Sarit Centre): Mall loyalty, e-purse, vouchers and parking platform with four web portals (Nuxt, Jakarta EE) - via Technovation
+- SMSTele / Ujumbe SMS (Mobi4Tech): Carrier-grade bulk SMS platform with developer sandbox (Jakarta EE, Artemis, Nuxt) - via Technovation
+- ZFDA (Zanzibar Food & Drug Authority): Regulatory licensing portal and MIS (Jakarta EE, JSF/PrimeFaces, Keycloak) - via Technovation
+- BiasharaLink & The Deal House: Pan-African B2B trade network with real-time deal rooms, 5 languages (Nuxt, Jakarta EE) - via Technovation
+- Skycrash: White-labelled real-time multiplayer crash game (Angular, WebSocket/STOMP) - via Technovation
+- Chanuka MFL: Micro-lending core with double-entry ledger and bank disbursement (Jakarta EE, Nuxt) - in progress, via Technovation
+- Salon Booking & POS: Booking, deposits and POS SaaS for kids' salons (Spring Boot, Paystack) - in progress
+- Finsoma: School-fees financing with school/bank/insurer approval workflow (Spring Boot, Nuxt) - https://school.finsoma.com
+- Digital SMS: Bulk SMS SaaS from Excel uploads (Spring Boot, Nuxt, Twilio, Stripe) - http://digitalsms.investor1properties.com
+- The Offtaker: Livestock market strategy simulation game (Nuxt) - https://kpmdgame.com
+- Herdwise: Livestock farmer data collection (Angular, Firebase) - https://herdwiseapp.web.app
+- Built Art Studios: Portfolio & lead-generation site for an architecture studio (Nuxt) - https://builtartstudios.com
+- Autosterile (EA): Medical device manufacturer website & catalogue (Nuxt) - https://www.autosterileea.biz
+
 ## Education
 
 - BSc. Mechatronics Engineering, JKUAT, Nairobi (2015-2021)

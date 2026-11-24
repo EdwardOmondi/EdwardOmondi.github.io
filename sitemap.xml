@@ -6,19 +6,25 @@
             <image:loc>https://edwardomondi.github.io/_ipx/s_72x72/images/edward-profile.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://kambei.dev/assets/img/posts/spring_logos.png</image:loc>
+            <image:loc>https://edwardomondi.github.io/images/projects/kwaru.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://images.pexels.com/photos/11035543/pexels-photo-11035543.jpeg</image:loc>
+            <image:loc>https://edwardomondi.github.io/images/projects/sarit-belong.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1</image:loc>
+            <image:loc>https://edwardomondi.github.io/images/projects/dtic-ebmm.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://picsum.photos/seed/aims/40/40</image:loc>
+            <image:loc>https://edwardomondi.github.io/images/projects/cardly.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://picsum.photos/seed/cardly/40/40</image:loc>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/building-rest-apis-spring-boot.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/angular-state-management-without-bloat.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/securing-web-apps-with-keycloak.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -36,16 +42,16 @@
     <url>
         <loc>https://edwardomondi.github.io/blog</loc>
         <image:image>
-            <image:loc>https://kambei.dev/assets/img/posts/spring_logos.png</image:loc>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/building-rest-apis-spring-boot.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://images.pexels.com/photos/11035543/pexels-photo-11035543.jpeg</image:loc>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/angular-state-management-without-bloat.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1</image:loc>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/securing-web-apps-with-keycloak.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1</image:loc>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/raspberry-pi-smart-lock-iot.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -56,11 +62,44 @@
     </url>
     <url>
         <loc>https://edwardomondi.github.io/projects</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/built-art-studios.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/kwaru.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/sarit-belong.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/ahadi.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/autosterile.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/dtic-ebmm.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/cardly.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/biasharalink.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/herdwise.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/ujumbe-sms.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/aims.jpg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://edwardomondi.github.io/blog/angular-state-management-without-bloat</loc>
         <image:image>
-            <image:loc>https://images.pexels.com/photos/11035543/pexels-photo-11035543.jpeg</image:loc>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/angular-state-management-without-bloat.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://edwardomondi.github.io/_ipx/s_32x32/images/edward-profile.png</image:loc>
@@ -69,7 +108,7 @@
     <url>
         <loc>https://edwardomondi.github.io/blog/building-rest-apis-spring-boot</loc>
         <image:image>
-            <image:loc>https://kambei.dev/assets/img/posts/spring_logos.png</image:loc>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/building-rest-apis-spring-boot.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://edwardomondi.github.io/_ipx/s_32x32/images/edward-profile.png</image:loc>
@@ -78,7 +117,7 @@
     <url>
         <loc>https://edwardomondi.github.io/blog/raspberry-pi-smart-lock-iot</loc>
         <image:image>
-            <image:loc>https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1</image:loc>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/raspberry-pi-smart-lock-iot.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://edwardomondi.github.io/_ipx/s_32x32/images/edward-profile.png</image:loc>
@@ -87,11 +126,98 @@
     <url>
         <loc>https://edwardomondi.github.io/blog/securing-web-apps-with-keycloak</loc>
         <image:image>
-            <image:loc>https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1</image:loc>
+            <image:loc>https://edwardomondi.github.io/_ipx/_/images/blog/securing-web-apps-with-keycloak.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://edwardomondi.github.io/_ipx/s_32x32/images/edward-profile.png</image:loc>
         </image:image>
     </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/ahadi</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/ahadi.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/aims</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/aims.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/autosterile</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/autosterile.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/biasharalink</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/biasharalink.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/built-art-studios</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/built-art-studios.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/cardly</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/cardly.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/chanuka-mfl</loc>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/digital-sms</loc>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/dtic-ebmm</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/dtic-ebmm.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/finsoma</loc>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/herdwise</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/herdwise.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/kpmdgame</loc>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/kwaru</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/kwaru.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/salon-pos</loc>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/sarit-belong</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/sarit-belong.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/skycrash</loc>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/ujumbe-sms</loc>
+        <image:image>
+            <image:loc>https://edwardomondi.github.io/images/projects/ujumbe-sms.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://edwardomondi.github.io/projects/zfda</loc>
+    </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.5.0 at 2026-11-24T08:30:49.867Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.5.0 at 2026-11-24T19:30:41.508Z -->
